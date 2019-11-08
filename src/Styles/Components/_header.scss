@@ -1,0 +1,15 @@
+.header{
+    background-color: $off-black;
+    color: white;
+    margin-bottom: $l-size;
+    padding: $m-size 0;
+    .headers_h1{
+      font-size: $m-size;
+      margin: 0;
+    }
+    .header_h2{
+      color: $off-white;
+      font-size: $m-size;
+      font-weight:500 ;
+    }
+}
